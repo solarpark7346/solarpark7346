@@ -1,4 +1,4 @@
-![ Header ](https://capsule-render.vercel.app/api?type=waving&height=200&text=Wellcom! solarpark7346&fontAlign=80&fontAlignY=40&color=gradient)
+![ Header ](https://capsule-render.vercel.app/api?type=waving&height=200&text=Wellcom!solarpark7346&fontAlign=80&fontAlignY=40&color=gradient)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flate&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flate&logo=c%2B%2B&logoColor=white)
