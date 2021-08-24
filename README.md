@@ -24,4 +24,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![ solarpark7346 의 GitHub 사용량 통계 ](https://github-readme-stats.vercel.app/api?username=solarpark7346&bg_color=30,&title_color=fff&text_color=fff)
+![ solarpark7346 의 GitHub 사용량 통계 ](https://github-readme-stats.vercel.app/api?username=solarpark7346&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
