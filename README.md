@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Park Boseong
   
-편집자로 전공 
+편집자로 전공 이적함
 
 [![Gmail Badge](https://img.shields.io/badge/solarpark7346@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solarpark7346@gmail.com)](mailto:solarpark7346@gmail.com)
 
